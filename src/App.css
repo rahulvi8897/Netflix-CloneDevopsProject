@@ -1,0 +1,18 @@
+.link
+{
+  font-size: 16px;
+  text-decoration: none;
+  color: white;
+  margin: 20px;
+  font-weight: 700;
+}
+
+body{
+  background-color: black;
+}
+
+.trendingdiv::-webkit-scrollbar
+{
+  display: none;
+}
+
